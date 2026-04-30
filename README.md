@@ -50,8 +50,21 @@ Built using a **Convolutional Neural Network (CNN)** trained on thousands of lab
 ---
 
 ## 🎬 Demo
+- **after uploading the image.**
+<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/2ea2df73-b2e9-45f7-a096-31b49c4b1b10" />
+
+- **model tell the Brain tumor type and the confidance interval and you can download the detailed report**
+  
+<img width="1916" height="694" alt="image" src="https://github.com/user-attachments/assets/360a3968-dd0c-4129-9f48-d0e9d2341246" />
+<img width="1919" height="666" alt="image" src="https://github.com/user-attachments/assets/9f4a5841-2c44-4c8b-90ca-121038ccb540" />
+
+- **this is the report View**
+  
+<img width="428" height="435" alt="image" src="https://github.com/user-attachments/assets/fd9cdb6b-5c14-44f6-b463-a060e400a264" />
+
 
 ```
+
 Upload MRI Image → Preprocessing → CNN Inference → Classification Result → (Optional) PDF Report
 ```
 
