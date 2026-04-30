@@ -305,8 +305,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋 Author
 **PAVAN AHIRE**
-- GitHub: [@your-username](https://github.com/pavan-ahire)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/pavan-ahire-260940364/)
+- GitHub: https://github.com/pavan-ahire
+- LinkedIn: https://www.linkedin.com/in/pavan-ahire-260940364/
 ---
 
 <div align="center">
