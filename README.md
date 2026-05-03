@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<!---[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)--->
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 > **An AI-powered deep learning system for automated brain tumor detection and classification from MRI scans.**
@@ -286,11 +286,11 @@ Contributions are welcome and appreciated! Here's how you can help:
 Please make sure to update tests and documentation as appropriate.
 
 ---
-
+<!---
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
+--->
 ---
 
 ## ⚠️ Disclaimer
