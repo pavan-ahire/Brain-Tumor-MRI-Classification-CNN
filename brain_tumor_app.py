@@ -95,7 +95,7 @@ tumor_data = {
     }
 }
 
-class_names = list(tumor_data.keys())
+class_names = ["glioma", "meningioma", "no tumor", "pituitary"]
 
 # -----------------------------
 # PDF GENERATOR (PROFESSIONAL)
